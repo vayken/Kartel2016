@@ -1,0 +1,64 @@
+
+
+body
+{
+	background-color: rgb(129, 226, 172);
+	font-family: 'bikoregular', Arial, serif;
+}
+
+@font-face {
+    font-family: 'bikoregular';
+    src: url('../polices/biko_regular-webfont.eot');
+    src: url('../polices/biko_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../polices/biko_regular-webfont.woff2') format('woff2'),
+         url('../polices/biko_regular-webfont.woff') format('woff'),
+         url('../polices/biko_regular-webfont.ttf') format('truetype'),
+         url('../polices/biko_regular-webfont.svg#bikoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+#reponse
+{
+	display: inline-block;
+	text-align: justify;
+    width: 800px;
+}
+input
+{
+	display: inline-block;
+	float: left;
+}
+pre
+{
+	text-align: left;
+}
+
+h1, h2
+{
+	text-align: center;
+}
+#main
+{
+	position: absolute;
+	top: 168px;
+	left: 300px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 900px;
+    background-color: rgb(239, 228, 176);
+    padding: 10px;
+    
+}
+
+p
+{
+	text-align: center;
+}
+
+.logo
+{
+	width: 380px;
+	height: 320px;
+}

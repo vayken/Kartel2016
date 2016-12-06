@@ -1,0 +1,36 @@
+
+
+body
+{
+    background-image: url("img_kar/background.jpg");
+}
+
+h1
+{
+	text-align: center;
+}
+section div
+{
+	position: absolute;
+	top: 20%;
+	left: 25%;
+	border : 1px solid blue;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 600px;
+    height: 600px;
+    text-align: center;
+    
+    
+}
+
+section p
+{
+	text-align: justify;
+}
+
+.logo
+{
+	width: 380px;
+	height: 320px;
+}

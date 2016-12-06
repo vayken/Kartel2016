@@ -1,0 +1,26 @@
+
+
+
+body
+{
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgb(130, 226, 172);
+}
+
+img.main_page {
+    position:fixed;
+    top:0;
+    left: 22%;
+    z-index:-1;
+}
+
+
+.bouton_on_off
+{
+	position: fixed;
+	left: 1272px;
+	top: 618px;
+    
+}
+

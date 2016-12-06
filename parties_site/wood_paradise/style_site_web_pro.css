@@ -1,0 +1,301 @@
+
+section p
+{
+	text-align: center;
+    font-size: 0.8em;
+}
+
+body
+{
+	position: relative;
+	width: 1090px;
+	margin-left: auto;
+	margin-right: auto;
+    background-image: url("sprites/wood.jpg");
+    background-repeat: repeat;
+}
+#header_kartel
+{
+    margin-right: -7px;
+    height: 178px;
+    width: 1089px;
+    margin-left: 0px;
+    z-index: 2;
+}
+header
+{
+	height: 254px;
+}
+#barre_noir
+{
+	background-color: black;
+	width: 1090px;
+	height: 38px;
+}
+.interieur_barre_noir a
+{
+    margin-right: 0px;
+    margin-left: 0px;
+}
+#interieur_barre_noir_liste
+{
+	list-style-type: none;
+	position: absolute;
+	right: 7px;
+	top: 0px;
+	margin-top: 0px;
+}
+
+.interieur_barre_noir
+{
+	display: inline-block;
+}
+
+#liste_nav
+{
+	list-style-type: none;
+	background-color: white;
+	position: absolute;
+	top: 217px;
+	height: 37px;
+	margin-top: 0px;
+	margin-left: 0px;
+	padding-left: 0px;
+	left: 0px;
+	width: 1090px;
+}
+.bouton_nav
+{
+	list-style-type: none;
+    display: inline-block;
+    margin-right: 25px;
+    margin-left: 25px;
+	font-size: 0.9em;
+}
+
+
+#main_page
+{
+	padding-top: 0px;
+	margin-top: 0px;
+	padding-right: 0px;
+    font-family: 'bikoregular', Arial, serif;
+    font-size: 2.5em;
+    
+	height: 1600px;
+	width: 1088px;
+	border: 1px solid white;
+	background-color: white;
+	z-index: 2;
+}
+
+pre
+{
+    font-size: 1.5em;
+	display: inline;
+}
+
+
+#bloc_liste_nav
+{
+	height: 38px;
+	padding-top: 0px;
+	margin-bottom: 0px;
+}
+
+.bouton_nav a
+{
+	color: black;
+	position: relative;
+    text-decoration: none;
+    font-family: 'bikoregular', Arial, serif;
+    font-size: 1.8em;
+    padding: 0px;
+	margin-left: 0px;
+	color: rgb(128, 175, 16);
+}
+
+#footer
+{
+	height: 223px;
+    font-family: 'bikoregular', Arial, serif;
+    font-size: 1.4em;
+    background-image: url("sprites/vert.jpg");
+}
+footer ul
+{
+
+	list-style-type: none;
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 0px;
+	padding-left: 0px;
+	left: 0px;
+}
+footer a
+{
+	color: white;
+	position: relative;
+    padding: 0px;
+	margin-left: 0px;
+	
+}
+
+.footer_first_list
+{
+	line-height: 74px;
+	margin-left: 25px;
+	width: 250px;
+	height: 61px;
+}
+
+
+.footer_second_list
+{
+	line-height: 74px;
+	margin-left: 883px;
+	width: 250px;
+	height: 61px;
+}
+
+#photo_liste
+{
+    height: 600px;
+	background-color: white;
+}
+
+#slides{
+}
+
+#imgSlide{
+	margin: auto;
+	margin-top: 0px;
+	margin-left: 0px;
+    height: 600px;
+	width: 1089px;
+	border: 0;
+}
+
+#slides ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+    position: absolute;
+    top: 650px;
+    left: 487px;
+}
+
+#slides li{
+	cursor: hand;
+	cursor: pointer;
+	float: left;
+	margin-left: 15px;
+	font-size: 3em;
+}
+
+#slides li:hover{
+	color: #a9a9a9;
+}
+
+.selected{
+	color: white;
+}
+.unselected{
+	color: rgb(120, 120, 120);
+}
+@font-face {
+    font-family: 'bikoregular';
+    src: url('../../polices/biko_regular-webfont.eot');
+    src: url('../../polices/biko_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../polices/biko_regular-webfont.woff2') format('woff2'),
+         url('../../polices/biko_regular-webfont.woff') format('woff'),
+         url('../../polices/biko_regular-webfont.ttf') format('truetype'),
+         url('../../polices/biko_regular-webfont.svg#bikoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+#slideContact1,
+#slideContact2,
+#slideContact3,
+#slideContact4,
+#slideContact5,
+#slideContact6,
+#slideContact7{
+	position: relative;
+	left: 55px;
+	top: 10px;
+	height: 195px;
+	width: 985px;
+	margin: 0;
+	padding: 0;
+}
+
+#slideContact1 ul,
+#slideContact2 ul,
+#slideContact3 ul,
+#slideContact4 ul,
+#slideContact5 ul,
+#slideContact6 ul,
+#slideContact7 ul{
+	position: absolute;
+	top: 0;
+	left: -40px;
+	width: 100%;
+	border: 0;
+	margin: 0;
+	list-style-type: none;
+	display: inline;
+}
+
+#slideContact1 li,
+#slideContact2 li,
+#slideContact3 li,
+#slideContact4 li,
+#slideContact5 li,
+#slideContact6 li,
+#slideContact7 li{
+	position: relative;
+	border: 0;
+	margin: 0;
+	float: left;
+	height: 195px;
+	width: 195px;
+	overflow: hidden;
+	z-index: 1;
+}
+
+#slideContact1 li img,
+#slideContact2 li img,
+#slideContact3 li img,
+#slideContact4 li img,
+#slideContact5 li img,
+#slideContact6 li img,
+#slideContact7 li img{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	border: 0;
+}
+
+#description{
+	position: relative;
+	font-size: 0.8em;
+	top: 20px;
+	text-align: center;
+	
+}
+
+.contactText{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 100px;
+	left: 100px;
+}
+
+#pointer{
+	position: relative;
+	z-index: 2;
+}

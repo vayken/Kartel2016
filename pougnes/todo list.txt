@@ -1,0 +1,15 @@
+un radio ou checkbox a cot� des r�ponses - done
+un textarea pour l'explication de la r�ponse - done
+peutetre changer le input text en textarea pour les r�ponses si elles sont longues - done
+
+mise en page du quizz
+
+fueilles CSS pour les pages
+
+sauvegarder tout dans une base de donn�e MYSQL - done
+
+syst�me de score
+
+peutetre un cours en d�but ou une explication de quel chapitre �tudier pour cette merde
+
+formules maths 
