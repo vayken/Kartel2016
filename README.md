@@ -1,5 +1,5 @@
 # Kartel2016 Student Union
-# English
+# English version
 My first website for the Student Union of my school Télécom Sudparis
 
 This is the first website that I have ever done, in HTML, CSS, JavaScript(JQuery), PHP and SQL.
@@ -16,8 +16,18 @@ This project was the first web project that I have worked on. I worked on it alo
 
 The file index.php is the page where the user will land once he goes on the website.
 
-Downloading the whole project will take some times, as there are many media files that are included such are videos, soundtracks, etc.
 
-If you want to download the project for testing purposes, you can download the zip file Kartel2016.zip that contains the website source code, without all those heavy media files.
+#Version Française
+Ce projet est mon premier projet Web. C'est un projet de site web pour une liste candidate au Bureau Des Elèves(BDE) de mon école.
 
-#Français
+Les technologies utilisés dans ce projet sont le HTML, CSS, JavaScript(JQuery), PHP et SQL.
+
+Ce site web est composé de deux parties : 
+
+- Une partie professionelle pour les différentes entreprise qui aimeraient sponsoriser le BDE (goodies, soirées, promo, etc...)
+
+- Une partie pour les étudiants de mon école, qui regroupe les news, les évènements, etc... Cette partie a été implémentée avec Facebook Connect pour permettre aux utilisateurs de se connecter via facebook sur le site.
+
+Ce projet est le premier projet web que j'ai éffectué. j'ai travaillé seul dessus, et cela ma permis d'approfondir mes capacité dans les langages du développement web. En effet, il est souvent pas suffisant de n'avoir que une connaissance théorique des langages, il faut y ajouter une composante pratique.
+
+Le fichier index.php est la page ou sera redirigé l'utilisateur qui se connecte au site web.
