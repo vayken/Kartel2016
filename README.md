@@ -1,4 +1,5 @@
 # Kartel2016 Student Union
+# English
 My first website for the Student Union of my school Télécom Sudparis
 
 This is the first website that I have ever done, in HTML, CSS, JavaScript(JQuery), PHP and SQL.
@@ -18,3 +19,5 @@ The file index.php is the page where the user will land once he goes on the webs
 Downloading the whole project will take some times, as there are many media files that are included such are videos, soundtracks, etc.
 
 If you want to download the project for testing purposes, you can download the zip file Kartel2016.zip that contains the website source code, without all those heavy media files.
+
+#Français
