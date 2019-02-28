@@ -17,7 +17,8 @@ This project was the first web project that I have worked on. I worked on it alo
 The file index.php is the page where the user will land once he goes on the website.
 
 
-#Version Française
+# Kartel2016 BDE
+# Version Française
 Ce projet est mon premier projet Web. C'est un projet de site web pour une liste candidate au Bureau Des Elèves(BDE) de mon école.
 
 Les technologies utilisés dans ce projet sont le HTML, CSS, JavaScript(JQuery), PHP et SQL.
